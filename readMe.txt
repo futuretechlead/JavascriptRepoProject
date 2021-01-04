@@ -1,0 +1,1 @@
+This folder stores Javascript projects I worked on.
